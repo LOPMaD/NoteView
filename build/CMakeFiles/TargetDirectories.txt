@@ -1,0 +1,3 @@
+/home/backboxlopm/Documents/newWORK/NoteBook/build/CMakeFiles/NoteView.dir
+/home/backboxlopm/Documents/newWORK/NoteBook/build/CMakeFiles/edit_cache.dir
+/home/backboxlopm/Documents/newWORK/NoteBook/build/CMakeFiles/rebuild_cache.dir

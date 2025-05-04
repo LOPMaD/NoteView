@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/NoteView.dir/src/main.cpp.o CMakeFiles/NoteView.dir/src/viewing.cpp.o -o NoteView  -lcurses /usr/lib/x86_64-linux-gnu/libform.so 

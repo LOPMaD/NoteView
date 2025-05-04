@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/notebook.dir/src/main.cpp.o CMakeFiles/notebook.dir/src/viewing.cpp.o -o notebook  -lcurses /usr/lib/x86_64-linux-gnu/libform.so 
