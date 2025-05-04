@@ -1,0 +1,6 @@
+cmake_minimum_required(VERSION 3.28.3)
+project(NoteView)
+add_executable(NoteView src/main.cpp src/viewing.cpp)
+find_package(Curses REQUIRED)
+include_directories(${CURSES_INCLUDE_DIR})
+target_link_libraries(NoteView ${CURSES_LIBRARIES})
